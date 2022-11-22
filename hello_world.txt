@@ -1,0 +1,3 @@
+# test
+Using git on a new terminal 
+Hello Odin!
